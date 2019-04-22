@@ -7,8 +7,8 @@
 
    Filename: mas_reg2.js
 
-   Author:  
-   Date:    
+   Author: Trent Peterson
+      Date:   4.22.19   
 
 
    Function List
@@ -20,4 +20,3 @@
 
 
 */
-

@@ -7,8 +7,8 @@
 
    Filename: mas_register.js
 
-   Author:  
-   Date:    
+   Author: Trent Peterson
+      Date:   4.22.19    
    
    Function List
    =============
@@ -28,3 +28,15 @@
 
 */
 
+window.onload = function () {
+      calcCart();
+      document.getElementById("regSubmit").onclick = sessionTest();
+      document.getElementById("fnBox").onblur = calcCart();
+      document.getElementById("lnBox").onblur = calcCart();
+      document.getElementById("groupBox").onblur = calcCart();
+      document.getElementById("mailBox").onblur = calcCart();
+      document.getElementById("phoneBox").onblur = calcCart();
+      document.getElementById("banquetBox").onblur = calcCart();
+
+
+}

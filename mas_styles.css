@@ -16,7 +16,7 @@
 
 html {
     /* this image is not included in the site */
-    /* background: rgb(51, 51, 51) url(cg_back.png); */
+    background: rgb(51, 51, 51);
     font-family: Verdana, Geneva, sans-serif;
     height: 100%;
 }
